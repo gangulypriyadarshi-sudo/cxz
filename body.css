@@ -1,0 +1,51 @@
+        body {
+            font-family:bold Arial, calibri;
+            margin: 0;
+            background: #f1f1f1;
+        }
+
+        header {
+            background: #333;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        nav {
+            background: #333;
+            display: flex;
+            justify-content: left;
+        }
+
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background: #333;
+        }
+
+        section {
+            padding: 20px;
+            background: white;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            margin-top: 0;
+        }
+
+        .skills span {
+            display: inline-block;
+            background: #222;
+            color: white;
+            padding: 8px 12px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+
+    </style>
+</head>
